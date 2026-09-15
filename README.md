@@ -16,14 +16,15 @@ The **Siemens S7-1200 / S7-1500 Modbus RTU Multi-Node Manager Library** is a pro
 
 | TIA Portal Version | Hardware Gen | Universal Engine (All Types) | DirectINT Engine (Int / DInt Only) | Status |
 | :--- | :--- | :--- | :--- | :--- |
+| Version | Hardware / CPU | Universal Library | Integer Library | Status |
+| :--- | :--- | :--- | :--- | :--- |
 | **TIA Portal V16** | G1 (Standard) | [Download Universal](./Libraries/V16/ModbusLibrary_Universal.zal16) | [Download INT](./Libraries/V16/ModbusLibrary_INT_.zal16) | ✅ Available |
 | **TIA Portal V17** | G1 (Standard) | [Download Universal](./Libraries/V17/ModbusLibrary_Universal.zal17) | [Download INT](./Libraries/V17/ModbusLibrary_INT_.zal17) | ✅ Available |
 | **TIA Portal V18** | G1 (Standard) | [Download Universal](./Libraries/V18/ModbusLibrary_Universal.zal18) | [Download INT](./Libraries/V18/ModbusLibrary_INT_.zal18) | ✅ Available |
-| **TIA Portal V19** | G1 (Standard) | [Download Universal](./Libraries/V19/ModbusLibrary_Universal.zal19) | [Download INT](./Libraries/V19/ModbusLibrary_INT_.zal19) | 🔄 Coming Soon |
-| **TIA Portal V20** | G1 (Standard) | [Download Universal](./Libraries/V20/ModbusLibrary_Universal.zal20) | [Download INT](./Libraries/V20/ModbusLibrary_INT_.zal20) | ✅ Available |
+| **TIA Portal V19** | G1 (Standard) | - | - | 🔄 Coming Soon |
+| **TIA Portal V20** | G1 (Standard) | [Download Universal](./Libraries/V20/ModbusLibrary_Universal.zal20) | [Download INT](./Libraries/V20/ModbusLibrary_INT.zal20) | ✅ Available |
 | **TIA V21 (G1)** | G1 (Standard) | [Download Universal G1](./Libraries/V21/G1/ModbusLibrary_Universal_G1.zal21) | [Download INT G1](./Libraries/V21/G1/ModbusLibrary_INT_G1.zal21) | ✅ Available |
 | **TIA V21 (G2)** | G2 (Generation 2) | [Download Universal G2](./Libraries/V21/G2/ModbusLibrary_Universal_G2.zal21) | [Download INT G2](./Libraries/V21/G2/ModbusLibrary_INT_G2.zal21) | ✅ Available |
----
 
 ## 🌟 Key Features
 
